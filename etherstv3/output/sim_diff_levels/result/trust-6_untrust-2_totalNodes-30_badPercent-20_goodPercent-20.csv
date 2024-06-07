@@ -1,0 +1,39 @@
+
+Trust Level :6
+UnTrust Level :2
+Amount Trust :10
+Amount Untrust :20
+Total nodes: 30
+Bad Percent: 20
+Good Percent: 20
+Normal Percent: 60
+N, 50
+B, 50
+N, 50
+N, 50
+N, 50
+B, 50
+B, 0
+N, 41
+N, 50
+N, 50
+N, 50
+N, 41
+G, 51
+N, 50
+G, 50
+N, 50
+N, 50
+N, 60
+G, 41
+G, 50
+B, 30
+N, 50
+N, 60
+G, 41
+B, 50
+N, 50
+N, 50
+G, 50
+B, 30
+N, 50

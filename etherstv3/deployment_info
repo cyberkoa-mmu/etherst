@@ -1,0 +1,94 @@
+Starting migrations...
+======================
+> Network name:    'ropsten'
+> Network id:      3
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x11e2cb413c92e5a7d558252c4e204547c8a97c94d63806a91ab6c79026036017
+   > Blocks: 2            Seconds: 26
+   > contract address:    0xAfbB525D4365ceE0CA77aBD9932974d7C346A144
+   > block number:        13015261
+   > block timestamp:     1663663860
+   > account:             0xD232371Aa9EC715F89C6Cc1de96f9331Ccc956C6
+   > balance:             0.805243142506909651
+   > gas used:            165475 (0x28663)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000413687501158325 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000413687501158325 ETH
+
+
+2_pki_token_migration.js
+========================
+
+   Replacing 'PKIToken'
+   --------------------
+   > transaction hash:    0x877a16ae1b531790372f7dcb0eda6a761648fb6ec050117ed051a99eff4e4cbf
+   > Blocks: 3            Seconds: 66
+   > contract address:    0x89bA5FB9b318811d415Eb307fEc037c76773AFC7
+   > block number:        13015267
+   > block timestamp:     1663663968
+   > account:             0xD232371Aa9EC715F89C6Cc1de96f9331Ccc956C6
+   > balance:             0.801603137496717637
+   > gas used:            1410261 (0x1584d5)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.003525652509871827 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.003525652509871827 ETH
+
+
+3_ethrust_migration.js
+======================
+
+   Replacing 'Ethrust'
+   -------------------
+
+   Deploying 'Console'
+   -------------------
+   > transaction hash:    0xc817e1edf696014762a1511471410059dbdc51756ee7730b77df94dd9e46cf31
+   > transaction hash:    0x8b0dfee627abf8c8f00cbce34e31383d61191f8a9848abcaf471eb3e92043949
+   > Blocks: 2            Seconds: 30
+   > contract address:    0xC3e7266e59Dad3b36d6e061e7B235E3eD5dFB595
+   > block number:        13015271
+   > block timestamp:     1663664064
+   > account:             0xD232371Aa9EC715F89C6Cc1de96f9331Ccc956C6
+   > balance:             0.793863482475046603
+   > gas used:            289527 (0x46af7)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000723817502026689 ETH
+
+   > Blocks: 2            Seconds: 34
+   > contract address:    0xF7DAF7A0DFDf27791DC5Bb3B1B822CA6d85cfEe4
+   > block number:        13015271
+   > block timestamp:     1663664064
+   > account:             0xD232371Aa9EC715F89C6Cc1de96f9331Ccc956C6
+   > balance:             0.793863482475046603
+   > gas used:            2777694 (0x2a625e)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.006944235019443858 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.007668052521470547 ETH
+
+Summary
+=======
+> Total deployments:   4
+> Final cost:          0.011607392532500699 ETH
